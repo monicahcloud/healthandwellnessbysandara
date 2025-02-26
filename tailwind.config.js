@@ -7,7 +7,7 @@ export default {
     },
     extend: {
       backgroundImage:{
-      heroImg:"url('./assets/about.jpeg')",
+      heroImg:"url('./background2.png')",
       blackOverlay: 'linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.8) 100%)'
       }
     },
