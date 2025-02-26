@@ -64,7 +64,7 @@ const About = () => {
                       <TbWorldWww className="h-14 w-14 text-cyan-600 hover:text-cyan-400 duration-300" />
                     </a>{' '} */}
               <a
-                href="hhttps://shop.aseaglobal.com/products?sponsorId=1HS083E0E6&at=true&m=7"
+                href="https://shop.aseaglobal.com/products?sponsorId=1HS083E0E6&at=true&m=7"
                 target="_blank">
                 <span>
                   {" "}
