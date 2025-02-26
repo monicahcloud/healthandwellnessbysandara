@@ -1,4 +1,4 @@
-import aboutImg from "../assets/newruthpic.png";
+import aboutImg from "../assets/profile.png";
 
 import Title from "./Title";
 
@@ -17,17 +17,19 @@ const About = () => {
         </div>
         <article>
           <h1 className=" text-7xl font-bold tracking-wider text-cyan-600">
-            Ruth <span className="text-slate-800"> Cloud</span>{" "}
+            Sandra <span className="text-slate-800"> Williams</span>{" "}
           </h1>
           <p className="mt-4 text-3xl text-slate-700 capitalize tracking-wide">
             Health and Wellness Coach
           </p>
           <p className="mt-4 text-1xl text-slate-700  tracking-wide">
-            With over 40 years of experience in nursing, Ruth has spent her
-            career providing compassionate care, nurturing wellness, and helping
-            countless individuals navigate their health journeys. Now retired,
-            she is passionate to continue helping others take control of their
-            well-being and live healthier lives.
+            Apostle Sandra Williams has dedicated over 30 years to serving others
+            through her faith and leadership, always striving to uplift and
+            empower those around her. Now, as an associate for ASEA, she
+            passionately shares this breakthrough product after experiencing
+            remarkable improvements in her own health. With a heart for service
+            and a belief in the power of ASEA, she is committed to helping
+            others discover its benefits and enhance their well-being.
           </p>
         </article>
       </div>
@@ -63,8 +65,7 @@ const About = () => {
                     </a>{' '} */}
               <a
                 href="https://shop.aseaglobal.com/products?sponsorId=180SHS7BCD&at=true&m=7/"
-                target="_blank"
-              >
+                target="_blank">
                 <span>
                   {" "}
                   <h3 className="pt-5 text-2xl text-cyan-500 font-bold">
@@ -74,8 +75,7 @@ const About = () => {
               </a>
               <a
                 href="https://shop.aseaglobal.com/products?sponsorId=180SHS7BCD&m=7"
-                target="_blank"
-              >
+                target="_blank">
                 <span>
                   {" "}
                   <h3 className="pt-5 text-2xl text-cyan-500 font-bold">

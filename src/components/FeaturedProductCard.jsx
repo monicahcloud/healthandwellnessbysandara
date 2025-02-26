@@ -6,18 +6,18 @@ import gold from "../assets/gold.png";
 
 const featuredproducts = [
   {
-   id: nanoid(),
-      img: gold,
-      url: "https://1800807234.myasealive.com/",
-      title: "REDOXGold™ Massage + Soothing Gel",
-      text: "ASEA is a wellness company driven by the power of human potential. Headquartered in Utah and serving a global community, ASEA is a trailblazer in cellular health. As the first to introduce groundbreaking redox signaling molecules, ASEA helps your cells function in harmony, as they were designed to. With each product and every opportunity, ASEA is committed to empowering individuals and enhancing lives.",
-      retail: "$70.00",
-      subscription: "$55.00",
+    id: nanoid(),
+    img: gold,
+    url: "https://shop.aseaglobal.com/products/5749?sponsorId=1HS083E0E6&m=7&st=ps",
+    title: "REDOXGold™ Massage + Soothing Gel",
+    text: "ASEA is a wellness company driven by the power of human potential. Headquartered in Utah and serving a global community, ASEA is a trailblazer in cellular health. As the first to introduce groundbreaking redox signaling molecules, ASEA helps your cells function in harmony, as they were designed to. With each product and every opportunity, ASEA is committed to empowering individuals and enhancing lives.",
+    retail: "$70.00",
+    subscription: "$55.00",
   },
   {
     id: nanoid(),
     img: Ebundle,
-    url: "https://shop.aseaglobal.com/products/5584?sponsorId=180SHS7BCD&m=7&st=ps",
+    url: "https://shop.aseaglobal.com/products/5584?sponsorId=1HS083E0E6&m=7&st=ps",
     title: "Essential Bundle",
     text: "6 bottles of ASEA Redox Cell Signaling Supplement, 1 tube of RENU28 Revitalizing Redox Gel, Shipping included",
     className: "rounded-md mb-4 size-48",
@@ -27,7 +27,7 @@ const featuredproducts = [
   {
     id: nanoid(),
     img: Renu28,
-    url: "https://shop.aseaglobal.com/products/3146?sponsorId=180SHS7BCD&m=7&st=ps",
+    url: "https://shop.aseaglobal.com/products/3146?sponsorId=1HS083E0E6&m=7&st=ps",
     title: "RENU28",
     className: "rounded-md mb-4 h-52 ",
     text: "RENU28® promotes hydration, elasticity, soothing, and skin surface cellular renewal. One simple gel, so many benefits.",
