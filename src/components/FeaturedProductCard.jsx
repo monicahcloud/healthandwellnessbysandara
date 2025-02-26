@@ -10,7 +10,7 @@ const featuredproducts = [
     img: gold,
     url: "https://shop.aseaglobal.com/products/5749?sponsorId=1HS083E0E6&m=7&st=ps",
     title: "REDOXGold™ Massage + Soothing Gel",
-    text: "ASEA is a wellness company driven by the power of human potential. Headquartered in Utah and serving a global community, ASEA is a trailblazer in cellular health. As the first to introduce groundbreaking redox signaling molecules, ASEA helps your cells function in harmony, as they were designed to. With each product and every opportunity, ASEA is committed to empowering individuals and enhancing lives.",
+    text: "REDOXGold™ absorbs quickly for fast-acting comfort and soothing relief with lasting results. Push your body to the limits and take back control to keep doing what you love, powered by next-generation redox technology. ",
     retail: "$70.00",
     subscription: "$55.00",
   },
