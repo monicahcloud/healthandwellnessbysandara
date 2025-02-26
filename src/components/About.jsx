@@ -23,9 +23,9 @@ const About = () => {
             Health and Wellness Coach
           </p>
           <p className="mt-4 text-1xl text-slate-700  tracking-wide">
-            Apostle Sandra Williams has dedicated over 30 years to serving others
-            through her faith and leadership, always striving to uplift and
-            empower those around her. Now, as an associate for ASEA, she
+            Apostle Sandra Williams has dedicated over 30 years to serving
+            others through her faith and leadership, always striving to uplift
+            and empower those around her. Now, as an associate for ASEA, she
             passionately shares this breakthrough product after experiencing
             remarkable improvements in her own health. With a heart for service
             and a belief in the power of ASEA, she is committed to helping
@@ -64,7 +64,7 @@ const About = () => {
                       <TbWorldWww className="h-14 w-14 text-cyan-600 hover:text-cyan-400 duration-300" />
                     </a>{' '} */}
               <a
-                href="https://shop.aseaglobal.com/products?sponsorId=180SHS7BCD&at=true&m=7/"
+                href="hhttps://shop.aseaglobal.com/products?sponsorId=1HS083E0E6&at=true&m=7"
                 target="_blank">
                 <span>
                   {" "}
@@ -74,7 +74,7 @@ const About = () => {
                 </span>{" "}
               </a>
               <a
-                href="https://shop.aseaglobal.com/products?sponsorId=180SHS7BCD&m=7"
+                href="https://shop.aseaglobal.com/products?sponsorId=1HS083E0E6&m=7"
                 target="_blank">
                 <span>
                   {" "}
